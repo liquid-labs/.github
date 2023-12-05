@@ -1,5 +1,11 @@
 # Liquid Labs
 
+## SDLCPilot
+
+A comprehensive Software Develompent Life Cycle management application.
+
+- [sdlcpilot-cli](https://github.com/liquid-labs/sdlcpilot-cli): A command line interface to SDCLPilot.
+
 ## Data object managers
 
 - [resource-item](https://github.com/liquid-labs/resource-item): Provides configurable 'Item' class to wrap plain data object for data protection and sanitization.
