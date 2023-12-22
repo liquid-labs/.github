@@ -13,6 +13,7 @@ A comprehensive Software Develompent Life Cycle management application.
 
 ## General utility
 
+- [command-line-documentation](https://github.com/liquid-labs/command-line-documentation): Generates Markdown \"user guide\" based off CLI spec compatible with command-line-args and command-line-usage.
 - [find-plus](https://github.com/liquid-labs/find-plus): A file finder patterned after Linux's find.
 - [regex-repo](https://github.com/liquid-labs/regex-repo): A collection of useful regular expressions.
 - [@liquid-labs/playground-monitor](https://github.com/liquid-labs/playground-monitor): A file-watching utility to track changes to a developers "playground".
