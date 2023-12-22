@@ -14,6 +14,7 @@ A comprehensive Software Develompent Life Cycle management application.
 ## General utility
 
 - [find-plus](https://github.com/liquid-labs/find-plus): A file finder patterned after Linux's find.
-- [playground-monitor](https://github.com/liquid-labs/playground-monitor): A file-watching utility to track changes to a developers "playground".
 - [regex-repo](https://github.com/liquid-labs/regex-repo): A collection of useful regular expressions.
-- [worker-manager](https://github.com/liquid-labs/worker-manager): A simple worker thread library providing worker management and status tracking.
+- [@liquid-labs/playground-monitor](https://github.com/liquid-labs/playground-monitor): A file-watching utility to track changes to a developers "playground".
+- [@liquid-labs/worker-manager](https://github.com/liquid-labs/worker-manager): A simple worker thread library providing worker management and status tracking.
+- [@liquid-labs/wrap-text](https://github.com/liquid-labs/wrap-text): Library and CLI to wrap text for any width with handling for invisible formatting, smart list indentation, and more.
